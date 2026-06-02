@@ -1,3 +1,18 @@
+ Team Members
+
+| Full Name        | Student ID |
+| ---------------- | ---------- |
+| Muaz Muhammed    | DBU1501382 |
+| Nahusenay Simeng | DBU1501390 |
+| Halid Faruk      | DBU1501642 |
+| Mikiyas Aflew    | DBU1501374 |
+| Kidus Misaw      | DBU1501305 |
+
+
+
+
+
+
 # RentEasy 🏠
 
 RentEasy is a modern, premium, and fully featured Android application designed to bridge the gap between renters and property owners. Built with modern Android development guidelines, Jetpack Compose, Clean Architecture, Hilt Dependency Injection, and Firebase services, it delivers an optimized, smooth, and robust mobile experience.
