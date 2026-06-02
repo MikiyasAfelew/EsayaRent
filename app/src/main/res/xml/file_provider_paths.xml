@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Exposes app cache dir so the camera can write the temp selfie file -->
+    <cache-path name="selfie_images" path="." />
+    <!-- Also expose internal files (for property images cached by the repo) -->
+    <files-path name="property_images" path="." />
+</paths>

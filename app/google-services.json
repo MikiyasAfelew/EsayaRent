@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192063970726",
+    "project_id": "easyrent-fe95e",
+    "storage_bucket": "easyrent-fe95e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192063970726:android:60300b90d89419eb104367",
+        "android_client_info": {
+          "package_name": "com.renteasy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt80ur4EOzI4Ew9ONlZtNgPU_CsnL7Rgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

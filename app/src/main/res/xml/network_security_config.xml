@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Network Security Configuration for RentEasy.
+
+    Explicitly trusts all system CA certificates for the domains used by the app:
+      - firebasestorage.googleapis.com  (property & avatar images)
+      - images.unsplash.com             (stock placeholder images)
+      - firebaseio.com                  (Firestore realtime)
+      - googleapis.com                  (Firebase Auth, Firestore REST)
+
+    This config also disables cleartext (plain HTTP) traffic globally, which is
+    the Android 9+ default. All app traffic uses HTTPS so this has no effect on
+    functionality — it just makes the policy explicit and avoids lint warnings.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+
+    <!-- Firebase Storage — property photos and user avatars -->
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">firebasestorage.googleapis.com</domain>
+        <domain includeSubdomains="true">storage.googleapis.com</domain>
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </domain-config>
+
+    <!-- Unsplash CDN — stock placeholder images -->
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">images.unsplash.com</domain>
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </domain-config>
+
+    <!-- Firebase / Google APIs -->
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">googleapis.com</domain>
+        <domain includeSubdomains="true">firebaseio.com</domain>
+        <domain includeSubdomains="true">firebase.com</domain>
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </domain-config>
+</network-security-config>

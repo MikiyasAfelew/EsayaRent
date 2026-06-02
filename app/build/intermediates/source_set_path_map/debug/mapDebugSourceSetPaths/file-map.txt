@@ -1,0 +1,72 @@
+com.renteasy.app-animation-core-release-0 C:\Users\Senay\.gradle\caches\transforms-4\02daacb92d3e86f130a9657e8269144a\transformed\animation-core-release\res
+com.renteasy.app-play-services-basement-18.3.0-1 C:\Users\Senay\.gradle\caches\transforms-4\02fd8e73761f8c483edadeee2a059b00\transformed\play-services-basement-18.3.0\res
+com.renteasy.app-material-icons-extended-release-2 C:\Users\Senay\.gradle\caches\transforms-4\06e967c9516bfaa711b9ffc3c3680d45\transformed\material-icons-extended-release\res
+com.renteasy.app-coil-base-2.6.0-3 C:\Users\Senay\.gradle\caches\transforms-4\0e2841bd41e96eb48a32d115e15b9c57\transformed\coil-base-2.6.0\res
+com.renteasy.app-ui-tooling-preview-release-4 C:\Users\Senay\.gradle\caches\transforms-4\153566adb0000eacea08832f2dc86ad9\transformed\ui-tooling-preview-release\res
+com.renteasy.app-foundation-release-5 C:\Users\Senay\.gradle\caches\transforms-4\1945659af04c05b0af98dd6c3f8d0f39\transformed\foundation-release\res
+com.renteasy.app-navigation-runtime-ktx-2.7.7-6 C:\Users\Senay\.gradle\caches\transforms-4\19cb969d8e0f92e76b14cc592d3dff5b\transformed\navigation-runtime-ktx-2.7.7\res
+com.renteasy.app-lifecycle-livedata-core-2.7.0-7 C:\Users\Senay\.gradle\caches\transforms-4\1d2c4295e1d5f34ec98ee7c945dfdf1a\transformed\lifecycle-livedata-core-2.7.0\res
+com.renteasy.app-ui-text-release-8 C:\Users\Senay\.gradle\caches\transforms-4\21bb9e8202084af09c9bf2c4f6e6db5f\transformed\ui-text-release\res
+com.renteasy.app-lifecycle-viewmodel-savedstate-2.7.0-9 C:\Users\Senay\.gradle\caches\transforms-4\2376f914a7218829915c1506032dc2d4\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.renteasy.app-sqlite-framework-2.4.0-10 C:\Users\Senay\.gradle\caches\transforms-4\283c20bc334a5b4be0860b3491193df9\transformed\sqlite-framework-2.4.0\res
+com.renteasy.app-firebase-common-21.0.0-11 C:\Users\Senay\.gradle\caches\transforms-4\2c646b45916aba6b2c2bfb0bb3d961f5\transformed\firebase-common-21.0.0\res
+com.renteasy.app-lifecycle-process-2.7.0-12 C:\Users\Senay\.gradle\caches\transforms-4\2f031e66a2b73f9e92251ea137101334\transformed\lifecycle-process-2.7.0\res
+com.renteasy.app-play-services-auth-20.7.0-13 C:\Users\Senay\.gradle\caches\transforms-4\2faec5cbf3bf187897a7a6e6075c1348\transformed\play-services-auth-20.7.0\res
+com.renteasy.app-animation-release-14 C:\Users\Senay\.gradle\caches\transforms-4\46fb6494f4edcb9635b082c05a486bf7\transformed\animation-release\res
+com.renteasy.app-lifecycle-viewmodel-compose-2.7.0-15 C:\Users\Senay\.gradle\caches\transforms-4\47a24120396029e95d4d95b225a8da95\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.renteasy.app-lifecycle-viewmodel-ktx-2.7.0-16 C:\Users\Senay\.gradle\caches\transforms-4\4abdf5db7c4466f38e6a8a33dbf322a6\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.renteasy.app-navigation-compose-2.7.7-17 C:\Users\Senay\.gradle\caches\transforms-4\4eea691275157cb84a1d8af1a4ebec44\transformed\navigation-compose-2.7.7\res
+com.renteasy.app-navigation-common-2.7.7-18 C:\Users\Senay\.gradle\caches\transforms-4\58a3601dc32b7ab6ecc1135a29510112\transformed\navigation-common-2.7.7\res
+com.renteasy.app-foundation-layout-release-19 C:\Users\Senay\.gradle\caches\transforms-4\5a5ed2e0a076bedc3ae27270fd5322af\transformed\foundation-layout-release\res
+com.renteasy.app-customview-poolingcontainer-1.0.0-20 C:\Users\Senay\.gradle\caches\transforms-4\6026b317ca69156e6c6f77909b5adfc6\transformed\customview-poolingcontainer-1.0.0\res
+com.renteasy.app-appcompat-resources-1.6.1-21 C:\Users\Senay\.gradle\caches\transforms-4\61653c2b268b5f8ff6f637edb98aacbc\transformed\appcompat-resources-1.6.1\res
+com.renteasy.app-navigation-common-ktx-2.7.7-22 C:\Users\Senay\.gradle\caches\transforms-4\67e32e80f44579720f926714669b97cf\transformed\navigation-common-ktx-2.7.7\res
+com.renteasy.app-ui-test-manifest-1.6.3-23 C:\Users\Senay\.gradle\caches\transforms-4\681353fcfce062c6309d42de83b03b2e\transformed\ui-test-manifest-1.6.3\res
+com.renteasy.app-ui-geometry-release-24 C:\Users\Senay\.gradle\caches\transforms-4\69684e657c52cd44bd0f21bddfdf49cb\transformed\ui-geometry-release\res
+com.renteasy.app-lifecycle-livedata-2.7.0-25 C:\Users\Senay\.gradle\caches\transforms-4\70f0d579f5618da9d03a78b115a48b6d\transformed\lifecycle-livedata-2.7.0\res
+com.renteasy.app-ui-release-26 C:\Users\Senay\.gradle\caches\transforms-4\71478baa02b15e5bd6ac35cf89a7e1e6\transformed\ui-release\res
+com.renteasy.app-sqlite-2.4.0-27 C:\Users\Senay\.gradle\caches\transforms-4\716424ade6fb6282c80caa15163d5985\transformed\sqlite-2.4.0\res
+com.renteasy.app-room-runtime-2.6.1-28 C:\Users\Senay\.gradle\caches\transforms-4\71e660f9345433fff2459c48405bfcc9\transformed\room-runtime-2.6.1\res
+com.renteasy.app-ui-tooling-data-release-29 C:\Users\Senay\.gradle\caches\transforms-4\7354f93dad1606d25f2f90a9b35d5282\transformed\ui-tooling-data-release\res
+com.renteasy.app-hilt-navigation-1.2.0-30 C:\Users\Senay\.gradle\caches\transforms-4\74d37853f5e8d7c4f194cf942f090bd7\transformed\hilt-navigation-1.2.0\res
+com.renteasy.app-fragment-1.5.1-31 C:\Users\Senay\.gradle\caches\transforms-4\78203fba76407394ba2eefe7f91ab179\transformed\fragment-1.5.1\res
+com.renteasy.app-emoji2-1.3.0-32 C:\Users\Senay\.gradle\caches\transforms-4\7cf105a4c6732d8dd7279b35588e2c8a\transformed\emoji2-1.3.0\res
+com.renteasy.app-core-runtime-2.2.0-33 C:\Users\Senay\.gradle\caches\transforms-4\8275f4f7e4756703c7d622256578a01d\transformed\core-runtime-2.2.0\res
+com.renteasy.app-profileinstaller-1.3.1-34 C:\Users\Senay\.gradle\caches\transforms-4\827b49c0678aef26364ba41c82776508\transformed\profileinstaller-1.3.1\res
+com.renteasy.app-annotation-experimental-1.4.0-35 C:\Users\Senay\.gradle\caches\transforms-4\838232ac69a5e366e82f9c507c8a9511\transformed\annotation-experimental-1.4.0\res
+com.renteasy.app-activity-compose-1.8.2-36 C:\Users\Senay\.gradle\caches\transforms-4\8605d4807cae6902a57226fc31002ec5\transformed\activity-compose-1.8.2\res
+com.renteasy.app-lifecycle-viewmodel-2.7.0-37 C:\Users\Senay\.gradle\caches\transforms-4\8654ad7346d28501cebab195ad97a2cf\transformed\lifecycle-viewmodel-2.7.0\res
+com.renteasy.app-credentials-play-services-auth-1.2.0-rc01-38 C:\Users\Senay\.gradle\caches\transforms-4\88a91e9cf96540f30c9d0b50a0beff56\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.renteasy.app-lifecycle-livedata-core-ktx-2.7.0-39 C:\Users\Senay\.gradle\caches\transforms-4\8ab5ece14d7e21027e5b3a2946e8dbb6\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.renteasy.app-navigation-runtime-2.7.7-40 C:\Users\Senay\.gradle\caches\transforms-4\8b084eea29acfc075d5cee3efa26c15e\transformed\navigation-runtime-2.7.7\res
+com.renteasy.app-credentials-1.2.0-rc01-41 C:\Users\Senay\.gradle\caches\transforms-4\97aceebbf1d6e269b22d8d867e4f28b9\transformed\credentials-1.2.0-rc01\res
+com.renteasy.app-runtime-release-42 C:\Users\Senay\.gradle\caches\transforms-4\9b96c214aa37ef034109c862d4fc403a\transformed\runtime-release\res
+com.renteasy.app-play-services-base-18.1.0-43 C:\Users\Senay\.gradle\caches\transforms-4\9c211e82d868a1ef8b67ce092a355126\transformed\play-services-base-18.1.0\res
+com.renteasy.app-lifecycle-runtime-2.7.0-44 C:\Users\Senay\.gradle\caches\transforms-4\9e2a284cb1379d6f0fa36fa786b3a96b\transformed\lifecycle-runtime-2.7.0\res
+com.renteasy.app-ui-graphics-release-45 C:\Users\Senay\.gradle\caches\transforms-4\a17cb79f6b45759647aa049bc0292e37\transformed\ui-graphics-release\res
+com.renteasy.app-ui-tooling-release-46 C:\Users\Senay\.gradle\caches\transforms-4\a391bff41f69f3cd63526691e9cbe03b\transformed\ui-tooling-release\res
+com.renteasy.app-material3-release-47 C:\Users\Senay\.gradle\caches\transforms-4\ae9ccd4f099ff1978a50f9ec78d402db\transformed\material3-release\res
+com.renteasy.app-core-1.12.0-48 C:\Users\Senay\.gradle\caches\transforms-4\b0a5426d005deb848585b6da03970b0e\transformed\core-1.12.0\res
+com.renteasy.app-savedstate-ktx-1.2.1-49 C:\Users\Senay\.gradle\caches\transforms-4\b7a894dd8c0fdc619889976d3876ffff\transformed\savedstate-ktx-1.2.1\res
+com.renteasy.app-material-ripple-release-50 C:\Users\Senay\.gradle\caches\transforms-4\bef2711b985fee759aee4ab02fa5b56f\transformed\material-ripple-release\res
+com.renteasy.app-ui-util-release-51 C:\Users\Senay\.gradle\caches\transforms-4\c112838aff5a9a7c037dea6eac886f6b\transformed\ui-util-release\res
+com.renteasy.app-room-ktx-2.6.1-52 C:\Users\Senay\.gradle\caches\transforms-4\c55261a37ec2ede9ff52dc79592fede0\transformed\room-ktx-2.6.1\res
+com.renteasy.app-material-release-53 C:\Users\Senay\.gradle\caches\transforms-4\ca43ce8cfc95249a38cb1de97a4ed662\transformed\material-release\res
+com.renteasy.app-startup-runtime-1.1.1-54 C:\Users\Senay\.gradle\caches\transforms-4\d8bb231126b28f2b4afaf979bd36b5ae\transformed\startup-runtime-1.1.1\res
+com.renteasy.app-browser-1.4.0-55 C:\Users\Senay\.gradle\caches\transforms-4\deecec733fa5999291e4999e240d9ad9\transformed\browser-1.4.0\res
+com.renteasy.app-material-icons-core-release-56 C:\Users\Senay\.gradle\caches\transforms-4\df9378a1720efb58c57aec65640519d3\transformed\material-icons-core-release\res
+com.renteasy.app-lifecycle-runtime-ktx-2.7.0-57 C:\Users\Senay\.gradle\caches\transforms-4\e0a0091c4a4bc7cb83987d64c8825834\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.renteasy.app-ui-unit-release-58 C:\Users\Senay\.gradle\caches\transforms-4\e11cd4a9970c0243259d607f25e760b3\transformed\ui-unit-release\res
+com.renteasy.app-activity-1.8.2-59 C:\Users\Senay\.gradle\caches\transforms-4\e4fe7e0fb7b01852e9d537782fcbf20d\transformed\activity-1.8.2\res
+com.renteasy.app-core-ktx-1.12.0-60 C:\Users\Senay\.gradle\caches\transforms-4\e5cd05eac6219090ebd302ec90d563bd\transformed\core-ktx-1.12.0\res
+com.renteasy.app-savedstate-1.2.1-61 C:\Users\Senay\.gradle\caches\transforms-4\e887c96bbcf4fccdcd9ff2f74036d448\transformed\savedstate-1.2.1\res
+com.renteasy.app-activity-ktx-1.8.2-62 C:\Users\Senay\.gradle\caches\transforms-4\e985045c771f2652c7024bc232362b62\transformed\activity-ktx-1.8.2\res
+com.renteasy.app-runtime-saveable-release-63 C:\Users\Senay\.gradle\caches\transforms-4\ec91f5547cd98bd02f15ac74c64cf3da\transformed\runtime-saveable-release\res
+com.renteasy.app-hilt-navigation-compose-1.2.0-64 C:\Users\Senay\.gradle\caches\transforms-4\fb398c8e23060021218a27e55f64c24f\transformed\hilt-navigation-compose-1.2.0\res
+com.renteasy.app-res-65 D:\Dark\Rent app\Rent app\app\build\generated\res\processDebugGoogleServices
+com.renteasy.app-resValues-66 D:\Dark\Rent app\Rent app\app\build\generated\res\resValues\debug
+com.renteasy.app-packageDebugResources-67 D:\Dark\Rent app\Rent app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.renteasy.app-packageDebugResources-68 D:\Dark\Rent app\Rent app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.renteasy.app-debug-69 D:\Dark\Rent app\Rent app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.renteasy.app-debug-70 D:\Dark\Rent app\Rent app\app\src\debug\res
+com.renteasy.app-main-71 D:\Dark\Rent app\Rent app\app\src\main\res

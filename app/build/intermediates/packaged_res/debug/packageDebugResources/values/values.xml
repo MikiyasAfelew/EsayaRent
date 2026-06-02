@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RentEasy</string>
+    <string name="gcm_defaultSenderId" translatable="false">192063970726</string>
+    <string name="google_api_key" translatable="false">AIzaSyAt80ur4EOzI4Ew9ONlZtNgPU_CsnL7Rgo</string>
+    <string name="google_app_id" translatable="false">1:192063970726:android:60300b90d89419eb104367</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAt80ur4EOzI4Ew9ONlZtNgPU_CsnL7Rgo</string>
+    <string name="google_storage_bucket" translatable="false">easyrent-fe95e.firebasestorage.app</string>
+    <string name="project_id" translatable="false">easyrent-fe95e</string>
+    <style name="Theme.RentEasy" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

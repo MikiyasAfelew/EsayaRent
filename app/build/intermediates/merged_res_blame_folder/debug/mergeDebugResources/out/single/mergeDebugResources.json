@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.renteasy.app-debug-70:/mipmap_ic_launcher_round.png.flat",
+        "source": "com.renteasy.app-main-72:/mipmap/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.renteasy.app-debug-70:/xml_file_provider_paths.xml.flat",
+        "source": "com.renteasy.app-main-72:/xml/file_provider_paths.xml"
+    },
+    {
+        "merged": "com.renteasy.app-debug-70:/xml_network_security_config.xml.flat",
+        "source": "com.renteasy.app-main-72:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.renteasy.app-debug-70:/mipmap_ic_launcher.png.flat",
+        "source": "com.renteasy.app-main-72:/mipmap/ic_launcher.png"
+    }
+]
