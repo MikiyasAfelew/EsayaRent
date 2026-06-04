@@ -3,7 +3,7 @@
 | Full Name        | Student ID |
 | ---------------- | ---------- |
 | Muaz Muhammed    | DBU1501382 |
-| Nahusenay Simeng | DBU1501390 |
+| Nahusenay Simegn | DBU1501390 |
 | Halid Faruk      | DBU1501642 |
 | Mikiyas Aflew    | DBU1501374 |
 | Kidus Misaw      | DBU1501305 |
